@@ -2,16 +2,13 @@
 
 A Django-based web application designed to help students manage their studies effectively. The Student Study Portal includes features like user authentication, note-taking, homework management,mock interviews,cs fundamentals,Dsa resources and external search capabilities.
 
-## Demo
-Check out the demo [here](https://drive.google.com/file/d/1XUU6b-BnxZD0uwB8v76SJD4Oh2B9Ynik/view?usp=sharing).
-
 ## Description
 The Student Study Portal is designed to help students organize their study materials and tasks. It offers features like note-taking, homework management, mock interviews,cs fundamentals,Dsa resources and integrated search capabilities to facilitate easy access to study resources.
 
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/BhukySharath/PrepGenius.git
+    git clone https://github.com/Shashankreddyadama/PrepGenius.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -49,6 +46,6 @@ The Student Study Portal is designed to help students organize their study mater
 
 
 ## Contact
- Sharath Bhukya - [bhukyasharath@gmail.com](mailto:your-email@example.com)
+ Shashank Reddy Adama - [shashank123sas@gmail.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/BhukySharath/PrepGenius](https://github.com/BhukyShrath/PrepGenius)
+Project Link: [https://github.com/Shashankreddyadama/PrepGenius](https://github.com/Shashankreddyadama/PrepGenius)
